@@ -9,7 +9,6 @@ let seconds = 0;
 let score = 0;
 let selectedInsect = {};
 
-
 startButton.addEventListener("click", () => screens[0].classList.add("up"));
 
 const increaseScore = () => {
