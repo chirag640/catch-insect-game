@@ -23,15 +23,15 @@ Catch The Insect is an engaging browser-based game where players catch insects w
 
 ### Home Screen
 
-![Home Screen](https://github.com/chirag640/catch-insect-game/blob/main/assets/111826944/16838039-e223-4318-b1ee-4fa458235d7c.png)
+![Screenshot 2024-05-18 102410](https://github.com/chirag640/catch-insect-game/assets/111826944/d717b213-1e94-4af5-a67d-c65e02c5dc7e)
 
 ### Insect Selection
+![Screenshot 2024-05-18 102418](https://github.com/chirag640/catch-insect-game/assets/111826944/bdaaf84f-9de5-45ee-98e7-fd6240f66556)
 
-![Insect Selection](https://github.com/chirag640/catch-insect-game/blob/main/assets/111826944/30a7cf42-d68f-4f8f-8ec7-afbcb531c9fa.png)
 
 ### Gameplay
+![Screenshot 2024-05-18 102433](https://github.com/chirag640/catch-insect-game/assets/111826944/3d870166-133b-4079-ba13-a495f5485e3d)
 
-![Gameplay](https://github.com/chirag640/catch-insect-game/blob/main/assets/111826944/978ac987-5c27-4142-9b62-3204791d7faa.png)
 
 ## How to Use
 
