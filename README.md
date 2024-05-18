@@ -19,31 +19,19 @@ Catch The Insect is an engaging browser-based game where players catch insects w
 3. **Event Handling**: Managing multiple event listeners and ensuring they work seamlessly together.
 4. **Game Logic**: Implementing the game logic to increase the score, manage time, and handle game state transitions.
 
-## File Structure
-
-```plaintext
-CatchTheInsect/
-│
-├── index.html          # HTML structure of the game
-├── style.css           # CSS styles for the game
-├── script.js           # JavaScript logic for the game
-└── README.md           # This readme file
-
-
-
 ## Screenshots
 
 ### Home Screen
 
-![Screenshot 2024-05-18 102410](https://github.com/chirag640/catch-insect-game/assets/111826944/16838039-e223-4318-b1ee-4fa458235d7c)
+![Home Screen](https://github.com/chirag640/catch-insect-game/blob/main/assets/111826944/16838039-e223-4318-b1ee-4fa458235d7c.png)
 
 ### Insect Selection
 
-![Screenshot 2024-05-18 102418](https://github.com/chirag640/catch-insect-game/assets/111826944/30a7cf42-d68f-4f8f-8ec7-afbcb531c9fa)
+![Insect Selection](https://github.com/chirag640/catch-insect-game/blob/main/assets/111826944/30a7cf42-d68f-4f8f-8ec7-afbcb531c9fa.png)
 
 ### Gameplay
 
-![Screenshot 2024-05-18 102433](https://github.com/chirag640/catch-insect-game/assets/111826944/978ac987-5c27-4142-9b62-3204791d7faa)
+![Gameplay](https://github.com/chirag640/catch-insect-game/blob/main/assets/111826944/978ac987-5c27-4142-9b62-3204791d7faa.png)
 
 ## How to Use
 
@@ -86,4 +74,3 @@ CatchTheInsect/
 - Images are preloaded to ensure smooth gameplay.
 - Insects are positioned randomly to enhance the challenge.
 - The game features animations and transitions for a better user experience.
-
